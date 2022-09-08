@@ -2,6 +2,7 @@
 
 	- instalar bootstrap 5 pelo importmaps
 	- gerar statics pages: [landing_page, home_page(void), privvacy_policy, terms]
+	- instalar font awesome by importmaps
 	- gerar basic partials: [header, footer]
 	- conectar aws
   - criar entidade de produto(name, description, stock, pictures, thumbnail, pra depois: [buys qunatity, reviews(just stars, or with comments)])
