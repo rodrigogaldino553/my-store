@@ -1,0 +1,19 @@
+* Lojinha simples
+
+	- instalar bootstrap 5 pelo importmaps
+	- gerar statics pages: [landing_page, home_page(void), privvacy_policy, terms]
+	- gerar basic partials: [header, footer]
+	- conectar aws
+  - criar entidade de produto(name, description, stock, pictures, thumbnail, pra depois: [buys qunatity, reviews(just stars, or with comments)])
+	- add rspec
+	- criar specs basicos
+	- add devise
+	- criar user(email, password)
+	- add rolify, pundit
+	- add basic roles: [owner, admin, costumer]
+	- add authorizations in whole application
+	- add faker, seed for development
+	- customize some views
+	- config emails
+  - add buy cart (extra, quando ja estiver tudo ok)
+
